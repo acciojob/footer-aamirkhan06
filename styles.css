@@ -1,1 +1,65 @@
 /* your code here */
+.content
+{
+	background-color:black;
+	color:white;
+	font-size:45px;
+	
+}
+.top
+{
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+	margin-inline:20px;
+	padding-top:20px;
+	padding-bottom:40px;
+}
+.logo
+{
+	text-decoration:none;
+	margin-left:12px;
+}
+.link-boxes
+{
+	display:flex;
+	font-size:18px;
+	justify-content:space-between;
+	margin-inline:20px;
+	padding-top:20px;
+	padding-bottom:40px;
+}
+.link-head
+{
+	margin-bottom:17px;
+	font-size:20px;
+}
+.link-items
+{
+	margin-top:10px;
+}
+.bottom-details
+{
+	background-color:gray;
+	color:white;
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+.copyright
+{
+	margin-left:20px;
+}
+.policy
+{
+	margin-right:20px;
+}
+
+
+
+
+
+
+
